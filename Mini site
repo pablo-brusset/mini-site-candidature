@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+	<html>
+	
+   		<head> 
+     		<meta charset="utf-8">
+     		<title>Mon site en construction </title>
+     	 	 <link rel="stylesheet" href="style.css">
+        </head>
+     	<body>
+     		<div id="carte">
+
+     		<h1 style= "font-family:Arial"> Bonjour et Bienvenue </h1>
+     		<img src="https://media3.giphy.com/media/26xBwdIuRJiAIqHwA/200w.webp?cid=3640f6095beb029b7a5a385563924425"/>
+             	
+             	<p><em>Je m'appelle Brusset Pablo j'ai 22 ans et j'habite à Castelnau le Lez.</p>
+             	<p>Je suis Diplomé d'un C.A.P Boulanger. J'ai un peu plus de 1 an d'expérience chez Castorama dans le domaine de la logistique.</em></p>
+            <h2 style="font-family:Arial ; color: blue">Voici ma petite expérience en Python</h2>
+
+            	<p><a href="https://github.com/pablo-brusset">    <img src="github.jpg"></a></p>
+
+            	<h3 style="font-family:Arial ; font-size: 25px"> Comment j'ai découvert ma passion pour le code</h3>
+
+            	<p><em>Dans ma période de chômage en début d’année 2018, j'ai commencé à m’intéresser de près à la programmation et l'informatique.</p>
+            	<p>J'ai effectué plusieurs recherches sur les langages de programmations  et j'ai commencé à apprendre le HTML.</em></p>
+          <br>
+          <br>
+          <br>
+          <br> 	
+          <table border="2" bgcolor="lightblue">
+            	<thead>
+            		<tr>
+            			<th style="font-family: Arial"> Mes Qualités</th>
+            			<th> Explications</th>
+            			
+            		</tr>
+            	</thead>
+            	<tbody>
+            		<tr>
+            			<td>Curieux</td>
+            			<td> Car il faut toujours regardé vers l'avenir.</td>
+            			<tr/>
+            			<td>Organisé</td>
+            			<td> Pour être capable de résoudre une tache dans les règles de l'art</td>
+            			<tr/>
+            			<td>Sociable</td>
+            			<td>Pour communiquer avec les autres développeurs et ses supérieurs</td> 
+            	</tbody>
+            		<thead>
+            			 <th style="font-family: Arial"> Mes Défaults</th>                   
+                   <th> Explications</th>
+                    </thead>
+                    <tbody>
+                    	<td>Perfectionniste</td>          	      
+                      <td> Quand je suis sur un projet je compte pas les heures.</td>
+            			<tr/>
+            			<td>Ponctualité</td>
+            			<td> Je suis très à cheval sur les heures de rendez-vous</td>  
+
+            	</tbody>
+           </table>
+           <br>
+           <br>
+           <br>
+         
+
+     	 </body>
+	</html>
